@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Wave&color=0:F8766D,100:00BFC4&text=Hello%20Hyeran%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=50&height=400&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=40:bf00ff,20:00bfc4&text=Hello%20Hyeran%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=50&height=400&fontColor=FFFFFF)
 
 # Git!
 
